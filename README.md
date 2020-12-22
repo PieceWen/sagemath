@@ -7,6 +7,6 @@ This is a <a href="https://www.sagemath.org/zh/">Chinese document introduction</
 Run online <a href="https://cocalc.com/">here</a>, 
 or <a href="https://sagecell.sagemath.org/">here</a>.
 
-You can use <a href="https://www.bilibili.com/video/BV1bi4y1M7rW?t=91">magicath</a> to confess to your loved ones.
+You can use <a href="https://www.bilibili.com/video/BV1bi4y1M7rW?t=91">magicath</a> to confess to your loved one.
 
 Here is a basic useage of <a href="https://www.bilibili.com/video/BV1d7411w7hc?t=33">Jupyter notebook</a>.
