@@ -9,7 +9,7 @@ apt源配置在 /etc/apt/sources.list，首先备份一下：
 cd /etc/apt/
 cp sources.list sources.list.bp
 ```
-然后修改为附件的sources.list，最后更新一下软件列表
+然后修改为附件的sources.list，最后更新一下
 ```shell
 sudo apt-get update
 ```
